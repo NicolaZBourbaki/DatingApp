@@ -9,5 +9,5 @@ namespace API.Inerfaces
     public interface ITokenService
     {
         string CreateToken(AppUser user);
-    }
+    } 
 }
